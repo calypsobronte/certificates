@@ -14,3 +14,5 @@
 ## Others
   * [x] Mentor in Coderise
   * [x] Pioneras Developers
+
+by @calypso_bronte
