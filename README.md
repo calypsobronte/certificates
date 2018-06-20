@@ -3,8 +3,8 @@
 ## School
   * [x] Technical Bachelor
 ## University
-  * [x] IUPB - In progress 
-  * [x] Sena 
+  * [x] IUPB - In progress
+  * [x] Sena
 ## Courses
   * [x] Platzi
   * [x] DataCamp
@@ -16,3 +16,4 @@
   * [x] Pioneras Developers
 
 by @calypso_bronte
+2018
